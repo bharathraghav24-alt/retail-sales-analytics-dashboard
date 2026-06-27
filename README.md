@@ -270,6 +270,36 @@ Product Intelligence
 Customer Intelligence
 Regional Performance
 
+Retail-Sales-Analytics-Dashboard 
+│ 
+├── README.md 
+├── Retail Sales Analytics Dashboard.pbix 
+├── Sample Superstore.xlsx 
+├── Retail Sales Analytics Dashboard.pdf 
+│
+├── screenshots 
+│ 
+├── Executive Overview.png 
+│ 
+├── Product Intelligence.png 
+│ 
+├── Customer Intelligence.png 
+│ └── Regional Performance.png 
+│ └── docs 
+└── Case Study.pdf
+
+Future Enhancements
+
+Future improvements may include:
+
+Drill-through reports
+Dynamic report tooltips
+Row-Level Security (RLS)
+Incremental Refresh
+Power BI Service deployment
+Mobile-optimized dashboard layout
+
+
 Author
 
 Bharath Raghav
